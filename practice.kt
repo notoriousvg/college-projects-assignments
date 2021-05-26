@@ -12,6 +12,7 @@ fun printDesc() {
             "\ncertain weight for the appropriate sex of the specified weight, height, and age.\n")
 }
 fun calculations()  {
+    //Note to self: Find a manner to minimize redundancies
     UserData.BMR = when(UserData.gender) {
         'm' ->  66 + (6.3 * UserData.weightInPounds) + (12.9 * UserData.heightInInches) - (6.8 * UserData.age)
         'M' -> 66 + (6.3 * UserData.weightInPounds) + (12.9 * UserData.heightInInches) - (6.8 * UserData.age)
