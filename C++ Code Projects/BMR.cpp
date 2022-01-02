@@ -1,6 +1,5 @@
 //Written By:   Victor Garcia
 //Assignment: HW02.13 programming projects pg. 107
-//Class: CS 116
 //Date: 03/08/2020
 //Description: Write a program that will tell you the output of chocolate bars that
 //should be consumed to maintain a certain weight for the appropriate sex depending
